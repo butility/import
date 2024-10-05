@@ -31,6 +31,7 @@
         "@butility/style/font": "./node_modules/@butility/style/font.js",
         "@butility/style/state": "./node_modules/@butility/style/state.js",
         "@butility/style/theme": "./node_modules/@butility/style/theme.js",
-        "@butility/ripple": "./node_modules/@butility/ripple/ripple.js"
+        "@butility/ripple": "./node_modules/@butility/ripple/ripple.js",
+        "@butility/router": "./node_modules/@butility/router/router.js"
     }
 }
